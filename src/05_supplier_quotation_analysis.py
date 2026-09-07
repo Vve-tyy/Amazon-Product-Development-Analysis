@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-ROOT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = Path(__file__).resolve().parent.parent
 CANDIDATE_FILE = ROOT_DIR / "data" / "raw" / "candidate_products_2.csv"
 SUPPLIER_FILE = ROOT_DIR / "data" / "raw" / "supplier_quotations_4.csv"
 
