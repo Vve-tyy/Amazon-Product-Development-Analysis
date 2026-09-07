@@ -41,8 +41,9 @@ Amazon-Product-Development-Analysis
 │
 ├── README.md
 ├── requirements.txt
+├── amazon_product_development_analysis.py
 │
-├── src
+├── src/
 │   ├── 00_generate_simulated_dataset.py
 │   ├── 01_initial_screening.py
 │   ├── 02_competitor_analysis.py
@@ -51,27 +52,27 @@ Amazon-Product-Development-Analysis
 │   ├── 05_supplier_quotation_analysis.py
 │   └── 06_opportunity_scoring.py
 │
-├── data
-│   ├── raw
+├── data/
+│   ├── raw/
 │   │   ├── candidate_products_2.csv
 │   │   ├── competitor_data_4.csv
 │   │   ├── review_pain_points_4.csv
 │   │   ├── keyword_data_6.csv
-│   │   ├── launch_performance_last_month_2.csv
-│   │   └── supplier_quotations_4.csv
+│   │   ├── supplier_quotations_4.csv
+│   │   └── launch_performance_last_month_2.csv
 │   │
-│   └── processed
-│       ├── 00_initial_screening_result.csv
-│       ├── 01_competitor_analysis_summary.csv
-│       ├── 02_review_pain_point_analysis.csv
-│       ├── 02_product_improvement_summary.csv
-│       ├── 03_keyword_analysis_summary.csv
-│       ├── 03_keyword_analysis_detail.csv
-│       ├── 04_supplier_quotation_analysis.csv
-│       ├── 04_supplier_recommendation_summary.csv
-│       └── 05_final_product_opportunity_ranking.csv
+│   └── processed/
+│       ├── initial_screening_result.csv
+│       ├── competitor_analysis_summary.csv
+│       ├── review_pain_point_analysis.csv
+│       ├── product_improvement_summary.csv
+│       ├── keyword_analysis_detail.csv
+│       ├── keyword_analysis_summary.csv
+│       ├── supplier_quotation_analysis.csv
+│       ├── supplier_recommendation_summary.csv
+│       └── final_product_opportunity_ranking.csv
 │
-└── output
+└── output/
     └── Amazon_Product_Development_Report.xlsx
 ```
 
