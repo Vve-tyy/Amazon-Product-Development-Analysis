@@ -40,7 +40,6 @@ Excel 汇总报告
 Amazon-Product-Development-Analysis
 │
 ├── README.md
-│
 ├── requirements.txt
 │
 ├── src
@@ -53,7 +52,6 @@ Amazon-Product-Development-Analysis
 │   └── 06_opportunity_scoring.py
 │
 ├── data
-│   │
 │   ├── raw
 │   │   ├── candidate_products_2.csv
 │   │   ├── competitor_data_4.csv
@@ -63,12 +61,15 @@ Amazon-Product-Development-Analysis
 │   │   └── supplier_quotations_4.csv
 │   │
 │   └── processed
-│       ├── 00 _initial_screening_result.csv
-│       ├── 01 _competitor_analysis_summary.csv
-│       ├── 02 _review_pain_point_analysis.csv + _product_improvement_summary.csv
-│       ├── 03 _keyword_analysis_summary.csv + _keyword_analysis_detail.csv
-│       ├── 04 _supplier_quotation_analysis.csv + _supplier_recommendation_summary.csv
-│       └── 05 _final_product_opportunity_ranking.csv
+│       ├── 00_initial_screening_result.csv
+│       ├── 01_competitor_analysis_summary.csv
+│       ├── 02_review_pain_point_analysis.csv
+│       ├── 02_product_improvement_summary.csv
+│       ├── 03_keyword_analysis_summary.csv
+│       ├── 03_keyword_analysis_detail.csv
+│       ├── 04_supplier_quotation_analysis.csv
+│       ├── 04_supplier_recommendation_summary.csv
+│       └── 05_final_product_opportunity_ranking.csv
 │
 └── output
     └── Amazon_Product_Development_Report.xlsx
@@ -139,7 +140,7 @@ python amazon_product_development_analysis.py
 
 1. 当前所有数据均为模拟学习数据；
 2. 未接入 Amazon SP-API、Helium 10、Keepa 或真实广告数据；
-3. 当前仅使用 2 个候选产品，后续可扩展为 30 至 100 个候选产品；
+3. 当前仅使用 2 个候选产品，后续可扩展为 20 至 30 个候选产品；
 4. 后续可加入真实采购运费、关税、仓储费、盈亏平衡 ACOS 与样品测试记录。
 
 ## 十、作者
