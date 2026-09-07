@@ -10,12 +10,12 @@ REPORT_FILE = OUTPUT_DIR / "Amazon_Product_Development_Report.xlsx"
 
 
 REPORT_SHEETS = {
-    "Final Ranking": "final_product_opportunity_ranking.csv",
-    "Initial Screening": "initial_screening_result.csv",
-    "Competition": "competitor_analysis_summary.csv",
-    "Review Insights": "product_improvement_summary.csv",
-    "Keyword Analysis": "keyword_analysis_summary.csv",
-    "Supplier Selection": "supplier_recommendation_summary.csv",
+    "Final Ranking": "05_final_product_opportunity_ranking.csv",
+    "Initial Screening": "00_initial_screening_result.csv",
+    "Competition": "01_competitor_analysis_summary.csv",
+    "Review Insights": "02_product_improvement_summary.csv",
+    "Keyword Analysis": "03_keyword_analysis_summary.csv",
+    "Supplier Selection": "04_supplier_recommendation_summary.csv",
 }
 
 
