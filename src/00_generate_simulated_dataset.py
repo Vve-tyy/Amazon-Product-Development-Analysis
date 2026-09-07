@@ -3,7 +3,7 @@ import pandas as pd
 
 # 全部内容均为模拟学习数据，不代表真实 Amazon 市场信息
 DATA_FLAG = "SIMULATED_LEARNING_DATA"
-OUTPUT_DIR = Path(__file__).resolve().parent / "data" / "raw"
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data" / "raw"
 
 if not OUTPUT_DIR.exists():
     raise FileNotFoundError(f"请先创建文件夹：{OUTPUT_DIR}")
