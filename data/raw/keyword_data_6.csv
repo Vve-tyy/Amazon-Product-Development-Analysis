@@ -1,0 +1,7 @@
+﻿Data_Flag,Keyword_ID,Product_ID,Keyword,Monthly_Search_Volume,Search_Trend_Growth_Pct,Estimated_CPC_USD,Keyword_Competition_Level,Search_Intent
+SIMULATED_LEARNING_DATA,K001-1,P001,under sink organizer,22000,14.2,1.15,High,Core Purchase Intent
+SIMULATED_LEARNING_DATA,K001-2,P001,under sink storage,9800,11.0,0.92,Medium,Feature Intent
+SIMULATED_LEARNING_DATA,K001-3,P001,kitchen cabinet organizer,7600,8.5,0.88,Medium,Category Intent
+SIMULATED_LEARNING_DATA,K002-1,P002,shower caddy organizer,19500,12.8,1.08,High,Core Purchase Intent
+SIMULATED_LEARNING_DATA,K002-2,P002,adhesive shower organizer,8400,16.3,0.95,Medium,Feature Intent
+SIMULATED_LEARNING_DATA,K002-3,P002,bathroom shower shelf,7100,7.4,0.82,Medium,Category Intent

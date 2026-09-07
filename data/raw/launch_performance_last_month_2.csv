@@ -1,0 +1,3 @@
+﻿Data_Flag,Performance_ID,Product_ID,Performance_Month,Units_Sold,Revenue_USD,Ad_Spend_USD,Conversion_Rate_Pct,Return_Rate_Pct,Average_Rating,Inventory_Health
+SIMULATED_LEARNING_DATA,L001-202608,P001,2026-08,1180,35388.2,5100.0,12.6,4.8,4.3,Healthy
+SIMULATED_LEARNING_DATA,L002-202608,P002,2026-08,960,27830.4,4600.0,11.8,5.6,4.2,Healthy

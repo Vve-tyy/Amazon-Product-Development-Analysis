@@ -1,0 +1,3 @@
+﻿Data_Flag,Product_ID,Product_Name,Marketplace,Category,Product_Segment,Target_Price_USD,Estimated_Monthly_Sales,Average_Rating,Estimated_Review_Count,Main_Keyword_Search_Volume,Search_Trend_Growth_Pct,Estimated_Competitor_Count,Estimated_COGS_USD,Estimated_FBA_Fee_USD,Estimated_Referral_Fee_USD,Estimated_Gross_Margin_Pct,Research_Status
+SIMULATED_LEARNING_DATA,P001,Under Sink Organizer,Amazon US,Home & Kitchen,Kitchen Storage,29.99,3200,4.2,1850,22000,14.2,65,7.8,7.2,4.5,35.0,Pending Initial Screening
+SIMULATED_LEARNING_DATA,P002,Shower Caddy Organizer,Amazon US,Home & Kitchen,Bathroom Organization,28.99,2900,4.1,1420,19500,12.8,79,7.2,7.0,4.35,35.0,Pending Initial Screening

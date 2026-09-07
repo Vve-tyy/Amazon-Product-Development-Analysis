@@ -1,0 +1,3 @@
+﻿Product_ID,Product_Name,Supplier_ID,Supplier_Name,Unit_Quote_USD,MOQ_Units,Mass_Production_Lead_Time_Days,Estimated_Quality_Score_100,Customization_Available,Initial_Order_Value_USD,Supplier_Total_Score,Supplier_Recommendation
+P001,Under Sink Organizer,S002,Simulated Supplier B,8.1,300,20,84,Yes,2430.0,94.6,Recommended for Sampling
+P002,Shower Caddy Organizer,S003,Simulated Supplier C,6.9,500,28,90,Yes,3450.0,85.7,Recommended for Sampling

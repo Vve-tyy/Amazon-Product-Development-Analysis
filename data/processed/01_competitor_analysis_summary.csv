@@ -1,0 +1,3 @@
+﻿Product_ID,Product_Name,Target_Price_USD,Average_Rating,Estimated_Monthly_Sales,Estimated_Review_Count,Avg_Competitor_Price_USD,Avg_Competitor_Rating,Avg_Competitor_Review_Count,Avg_Competitor_Monthly_Sales,Price_Gap_Pct,Rating_Gap,Review_Barrier_Ratio,Sales_Competition_Ratio,Competition_Conclusion
+P001,Under Sink Organizer,29.99,4.2,3200,1850,29.99,4.300000000000001,2050.0,3200.0,0.0,-0.1,1.11,1.0,High Review Barrier
+P002,Shower Caddy Organizer,28.99,4.1,2900,1420,28.99,4.15,1725.0,2900.0,0.0,-0.05,1.21,1.0,Moderate Competition

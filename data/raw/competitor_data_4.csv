@@ -1,0 +1,5 @@
+﻿Data_Flag,Product_ID,Competitor_ID,Competitor_Name,Competitor_Price_USD,Competitor_Rating,Competitor_Review_Count,Competitor_Estimated_Monthly_Sales,Main_Differentiation_Claim
+SIMULATED_LEARNING_DATA,P001,C001-1,SpaceMax Under Sink Organizer,27.99,4.4,2300,3500,Rust-resistant coating
+SIMULATED_LEARNING_DATA,P001,C001-2,HomePro Under Sink Organizer,31.99,4.2,1800,2900,Tool-free assembly
+SIMULATED_LEARNING_DATA,P002,C002-1,Prime Shower Caddy Organizer,26.99,4.3,2100,3300,Strong adhesive mounting
+SIMULATED_LEARNING_DATA,P002,C002-2,EasyNest Shower Caddy Organizer,30.99,4.0,1350,2500,Large capacity design

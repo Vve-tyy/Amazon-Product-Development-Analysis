@@ -1,0 +1,5 @@
+﻿Data_Flag,Quotation_ID,Product_ID,Supplier_ID,Supplier_Name,Unit_Quote_USD,MOQ_Units,Sample_Fee_USD,Mass_Production_Lead_Time_Days,Estimated_Quality_Score_100,Customization_Available,Packaging_Option
+SIMULATED_LEARNING_DATA,Q001-1,P001,S001,Simulated Supplier A,7.5,500,95,25,88,Yes,Custom Color Box
+SIMULATED_LEARNING_DATA,Q001-2,P001,S002,Simulated Supplier B,8.1,300,110,20,84,Yes,Standard Box
+SIMULATED_LEARNING_DATA,Q002-1,P002,S003,Simulated Supplier C,6.9,500,90,28,90,Yes,Custom Color Box
+SIMULATED_LEARNING_DATA,Q002-2,P002,S004,Simulated Supplier D,7.4,300,105,22,85,No,Standard Box

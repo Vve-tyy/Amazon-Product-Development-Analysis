@@ -1,0 +1,5 @@
+﻿Data_Flag,Review_ID,Product_ID,Competitor_ID,Review_Rating,Review_Sentiment,Pain_Point_Category,Pain_Point_Severity,Representative_Review_Summary,Suggested_Product_Improvement,Product_Name,Pain_Point_Severity_Score
+SIMULATED_LEARNING_DATA,R001-1,P001,C001-1,1,Negative,Rusting,High,Metal coating rusted after several weeks in a humid kitchen.,Use thicker rust-resistant stainless steel with protective coating.,Under Sink Organizer,3
+SIMULATED_LEARNING_DATA,R001-2,P001,C001-2,2,Negative,Poor Stability,High,The organizer shifts when pulling out cleaning supplies.,Add anti-slip feet and reinforced support structure.,Under Sink Organizer,3
+SIMULATED_LEARNING_DATA,R002-1,P002,C002-1,1,Negative,Weak Adhesive,High,Adhesive failed after being exposed to shower moisture.,Use waterproof adhesive strips plus optional screw installation.,Shower Caddy Organizer,3
+SIMULATED_LEARNING_DATA,R002-2,P002,C002-2,2,Negative,Poor Drainage,Medium,Water collects at the bottom and is difficult to clean.,Add drainage slots and a removable drip tray.,Shower Caddy Organizer,2

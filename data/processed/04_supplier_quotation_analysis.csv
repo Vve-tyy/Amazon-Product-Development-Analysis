@@ -1,0 +1,5 @@
+﻿Data_Flag,Quotation_ID,Product_ID,Supplier_ID,Supplier_Name,Unit_Quote_USD,MOQ_Units,Sample_Fee_USD,Mass_Production_Lead_Time_Days,Estimated_Quality_Score_100,Customization_Available,Packaging_Option,Product_Name,Estimated_COGS_USD,Quote_vs_Estimated_COGS_Difference_USD,Initial_Order_Value_USD,Price_Score,MOQ_Score,Lead_Time_Score,Quality_Score,Customization_Score,Supplier_Total_Score,Supplier_Rank,Supplier_Recommendation
+SIMULATED_LEARNING_DATA,Q001-2,P001,S002,Simulated Supplier B,8.1,300,110,20,84,Yes,Standard Box,Under Sink Organizer,7.8,0.3,2430.0,27.8,20.0,20.0,16.8,10,94.6,1,Recommended for Sampling
+SIMULATED_LEARNING_DATA,Q001-1,P001,S001,Simulated Supplier A,7.5,500,95,25,88,Yes,Custom Color Box,Under Sink Organizer,7.8,-0.3,3750.0,30.0,12.0,16.0,17.6,10,85.6,2,Backup Supplier
+SIMULATED_LEARNING_DATA,Q002-1,P002,S003,Simulated Supplier C,6.9,500,90,28,90,Yes,Custom Color Box,Shower Caddy Organizer,7.2,-0.3,3450.0,30.0,12.0,15.7,18.0,10,85.7,1,Recommended for Sampling
+SIMULATED_LEARNING_DATA,Q002-2,P002,S004,Simulated Supplier D,7.4,300,105,22,85,No,Standard Box,Shower Caddy Organizer,7.2,0.2,2220.0,28.0,20.0,20.0,17.0,0,85.0,2,Backup Supplier
